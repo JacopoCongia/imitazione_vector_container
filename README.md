@@ -1,1 +1,1 @@
-# imitazione_vector_container
+Riproduzione della Classe/Container "Vector" di C++
